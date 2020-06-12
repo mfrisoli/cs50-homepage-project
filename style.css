@@ -9,7 +9,7 @@ body
 }
 
 /* Style the header */
-header 
+.header_1 
 {
     background-color: #666;
     padding: 30px;
@@ -22,14 +22,14 @@ header
 nav 
 {
     float: left;
-    width: 30%;
+    width: 40%;
     background: #ccc;
     padding: 20px;
 }
 article 
 {
     float: left;
-    width: 70%;
+    width: 60%;
     background-color: whitesmoke;
     padding: 20px;
 }
