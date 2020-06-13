@@ -6,11 +6,8 @@ Provide basic fundation of:
 -Subtract
 -Multpiply
 -Divide
--Fractions
--Decimals
 
 UX:
 Depending on your mood it will tell you a quote
 
-
-Ideas to add:
+Calculator to test your skills
