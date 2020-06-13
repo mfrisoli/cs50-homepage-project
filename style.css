@@ -63,3 +63,8 @@ footer
     padding: 10px;
     border-collapse: collapse
 }
+
+.input_1
+{
+    box-align: center;
+}
